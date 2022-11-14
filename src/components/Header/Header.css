@@ -1,0 +1,15 @@
+.headerDesign{
+    height: 10vh;
+    background-color: #01161e;
+    color: white;
+    font-weight: 700;
+    display: flex;
+}
+
+.headersName{
+    margin-right: 2em;
+}
+
+.span{
+    color: #aec3b0;
+}

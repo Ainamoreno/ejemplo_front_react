@@ -1,0 +1,11 @@
+.divDetails{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+}
+
+.pDetails{
+    width: 35em;
+}

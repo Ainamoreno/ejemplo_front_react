@@ -1,0 +1,25 @@
+.movie {
+    display: grid;
+    grid-template-columns:  repeat(2, 20em);
+  }
+  
+  .divMovie {
+    z-index: 1;
+    width: 12em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  
+    margin-right: 1em;
+    margin-left: 1em;
+    margin-bottom: 1em;
+    padding: 1em;
+  
+    border: 1px solid;
+    border-radius: 1em;
+  }
+  
+  .imgMovie {
+    width: 12em;
+  }
