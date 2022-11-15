@@ -1,6 +1,10 @@
-.homeDesign {
-  background-color: #eff6e0;
-  height: fit-content;
+.homeDesign{
+    height: 90vh;
+    background-color: #463f3a;
 }
 
-
+.divHome {
+    
+    background-color: #463f3a;
+    color: #8a817c;
+  }

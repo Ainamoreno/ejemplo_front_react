@@ -1,7 +1,4 @@
-.movie {
-    display: grid;
-    grid-template-columns:  repeat(2, 20em);
-  }
+
   
   .divMovie {
     z-index: 1;
@@ -11,8 +8,7 @@
     align-items: center;
     justify-content: center;
   
-    margin-right: 1em;
-    margin-left: 1em;
+    margin: 1em;
     margin-bottom: 1em;
     padding: 1em;
   
